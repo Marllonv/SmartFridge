@@ -13,16 +13,17 @@ def alteraTemperatura(temperatura):
     temperatura = self.temperatura
 
 def editaListaProduto():
-    break
+    return
 
 def atualizaEstoque(quantidade):
-    break
+    return
+
 def realizaCompra():
-    
-    break
+    return
+  
 def geraRelatorio(idUsuario, idProduto, quantidade):
-    
-    break
+    return
+
     
 
 

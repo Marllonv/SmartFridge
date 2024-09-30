@@ -4,13 +4,12 @@ email = ""
 senha = ""
 
 def iniciaScan():
-    break
-
+    return
 def userCadastro(idUsuario, nome, email, senha):
-    break
+    return
 
 def userLogin(idUsuario, senha):
-    break
+    return
 
 def mudaSenha(senha):
-    break
+    return
